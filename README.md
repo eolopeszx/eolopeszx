@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o LopesX
 
-<!--
-**eolopeszx/eolopeszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou criador de ferramentas e utilitários para Windows, como o otimizador **LopesX**.
 
-Here are some ideas to get you started:
+**🔧 Linguagens que utilizo:**
+- 🟨 Java
+- 🟩 Batch (.bat)
+- 🟦 HTML / CSS
+- 🟧 JavaScript
+- 🟥 MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 Me siga no TikTok: [@lopesx6666](https://tiktok.com/@lopesx6666)  
+📸 Instagram: [@eolopeszx](https://instagram.com/eolopeszx)
